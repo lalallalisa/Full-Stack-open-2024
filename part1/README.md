@@ -1,1 +1,1 @@
-finished文件夹中包含完成各个练习或多个练习时的迭代版本
+The finished folder contains the iterated versions of each exercise or exercises completed
